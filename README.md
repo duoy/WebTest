@@ -1,3 +1,2 @@
 # WebTest
-Creating a new branch.
-update in dev branch.
+Creating a new branch is quick & simple.
